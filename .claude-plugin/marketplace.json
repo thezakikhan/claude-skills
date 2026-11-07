@@ -1,0 +1,21 @@
+{
+  "name": "thezakikhan",
+  "owner": {
+    "name": "Zaki Khan"
+  },
+  "metadata": {
+    "description": "Claude skills by Zaki Khan \u2014 voice, product management, and more",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "muslim-voice",
+      "description": "Claude speaks with Islamic expressions (alhamdulillah, inshaAllah, astaghfirullah) woven naturally into replies, as a Muslim speaker would.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/muslim-voice"
+      ]
+    }
+  ]
+}
