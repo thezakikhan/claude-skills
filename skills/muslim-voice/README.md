@@ -11,6 +11,7 @@ The substance of Claude's answers doesn't change. Only the register does.
 - Stays out of code, commands, file contents and anything you'll paste elsewhere.
 - Never invents rulings, hadith or Quran citations to fit the voice.
 - Keeps honest, direct feedback intact. The voice softens tone, not substance.
+- Doesn’t preach, speak for all Muslims, or claim a faith identity
 
 See [`SKILL.md`](SKILL.md) for the full phrase table and guidelines.
 
